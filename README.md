@@ -1,0 +1,1 @@
+# ut-azure-blobstorage-delete-blob-from-container-linux
